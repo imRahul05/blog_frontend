@@ -29,7 +29,7 @@ A modern, full-stack blog application built with **React**, **Node.js**, **Expre
 - **Deployment**: (Add deployment details if applicable, e.g., Vercel, Heroku, or Firebase Hosting)
 
 ## Project Structure
-
+```
 blog_frontend/
 ├── public/                   # Static assets (images, favicon, etc.)
 ├── src/                      # React source code
@@ -48,7 +48,7 @@ blog_frontend/
 ├── .env                      # Environment variables (not tracked in Git)
 ├── package.json              # Project dependencies and scripts
 └── README.md                 # Project documentation
-
+```
 
 
 ## Installation
